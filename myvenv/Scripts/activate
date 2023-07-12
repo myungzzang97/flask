@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\ITStudy\06_flask\woorifisa\woorifisa\myvenv"
+VIRTUAL_ENV="C:\ITStudy\06_flask\woorifisa\flask_0711_1\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
